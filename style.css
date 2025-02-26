@@ -1,0 +1,25 @@
+body {
+    background-color: #0A0F0D;
+    color: gold;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: #008F11;
+    border: none;
+    color: gold;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #006400;
+}
+
+#lista-partidas {
+    margin-top: 20px;
+}
